@@ -1,0 +1,15 @@
+{
+    "name": "kevincherizecote/game-dame",
+    "authors": [
+        {
+            "name": "Kevin Cheri-Zecote",
+            "email": "kev.cheriz@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Classe\\" : "Classe/"
+        }
+    }
+}
